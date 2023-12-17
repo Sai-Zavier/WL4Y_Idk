@@ -18,6 +18,10 @@ a {
   text-decoration: none;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 .container {
   width: 1200px;
   max-width: 90%;
