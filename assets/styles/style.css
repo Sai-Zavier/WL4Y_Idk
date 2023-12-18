@@ -132,6 +132,10 @@ nav a:last-of-type:hover {
   font-size: 1.1rem;
 }
 
+.about p {
+  text-align: center;
+}
+
 .skills-and-showcase {
   background-color: var(--white);
 }
@@ -218,6 +222,10 @@ a[href^="mailto:"]:hover {
   display: grid;
   grid-template-rows: 1fr;
   grid-auto-rows: 1fr;
+}
+
+.showcase p {
+  text-align: center;
 }
 
 .gallery {
